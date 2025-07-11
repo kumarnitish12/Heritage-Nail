@@ -191,7 +191,7 @@ section {
 .hero {
     height: 100vh;
     background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-                url('https://pixabay.com/get/g7e1aadc08ba1cd99eb398e085c2d301e318faaac90f95ec7d796301b7da88f43cc101dc8eb6423540192f0ceab44353320af807c8e8beaecc7d78408819b0121_1280.jpg');
+                url('img1.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -202,6 +202,7 @@ section {
     color: var(--white);
     position: relative;
 }
+
 
 .hero-overlay {
     position: absolute;

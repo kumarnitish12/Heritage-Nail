@@ -223,7 +223,7 @@ Best regards,
 ${name}
     `.trim();
     
-    return `mailto:heritage@naildesign.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    return `mailto:heritagenailab@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
 }
 
 // Show notification message
