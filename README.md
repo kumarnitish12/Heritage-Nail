@@ -20,27 +20,6 @@ A beautifully designed frontend website for **Heritage Nail**, showcasing servic
 
 ---
 
-## 📁 Project Structure
-
-heritage-nail-website/
-├── index.html
-├── about.html
-├── services.html
-├── contact.html
-├── css/
-│ └── style.css
-├── js/
-│ └── script.js
-├── images/
-│ └── ... (salon images, logo, icons)
-└── README.md
-
-yaml
-Copy
-Edit
-
----
-
 ## 🛠️ Tech Stack
 
 - **HTML5** – Semantic and structured content
